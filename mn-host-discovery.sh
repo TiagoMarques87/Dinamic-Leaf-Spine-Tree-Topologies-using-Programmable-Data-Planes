@@ -1,0 +1,16 @@
+util/mn-cmd h1a ping -c 1 172.16.1.254 > /dev/null
+util/mn-cmd h1b ping -c 1 172.16.1.254 > /dev/null
+util/mn-cmd h1c ping -c 1 172.16.1.254 > /dev/null
+util/mn-cmd h1d ping -c 1 172.16.1.254 > /dev/null
+util/mn-cmd h2a ping -c 1 172.16.2.254 > /dev/null
+util/mn-cmd h2b ping -c 1 172.16.2.254 > /dev/null
+util/mn-cmd h2c ping -c 1 172.16.2.254 > /dev/null
+util/mn-cmd h2d ping -c 1 172.16.2.254 > /dev/null
+util/mn-cmd h3a ping -c 1 172.16.3.254 > /dev/null
+util/mn-cmd h3b ping -c 1 172.16.3.254 > /dev/null
+util/mn-cmd h3c ping -c 1 172.16.3.254 > /dev/null
+util/mn-cmd h3d ping -c 1 172.16.3.254 > /dev/null
+util/mn-cmd h4a ping -c 1 172.16.4.254 > /dev/null
+util/mn-cmd h4b ping -c 1 172.16.4.254 > /dev/null
+util/mn-cmd h4c ping -c 1 172.16.4.254 > /dev/null
+util/mn-cmd h4d ping -c 1 172.16.4.254 > /dev/null
